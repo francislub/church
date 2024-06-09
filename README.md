@@ -1,2 +1,2 @@
-# church
-a temperate for the church website
+# charityAp-main
+An app for nalongo donation
